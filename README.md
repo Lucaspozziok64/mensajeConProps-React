@@ -1,12 +1,37 @@
-# React + Vite
+🚀 React + Vite: Hello World con Props
+- 
+- Página React minimalista creada con Vite que muestra un mensaje personalizado usando componentes y props, con una imagen de fondo responsive.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Características
+- 
+- ⚡ Super rápida gracias a Vite
+- 📱 Totalmente responsive
+- 🖼️ Imagen de fondo adaptable a todos los dispositivos
+- 🧩 Componente reutilizable con props
+- 🎨 Estilos modernos con CSS
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+▶️Cómo ejecutarlo localmente
+- 
+- 1- Clona el repositorio:
+````
+git clone https://github.com/Lucaspozziok64/mensajeConProps-React.git
+````
+- 2- Instala Dependencias:
+````
+npm install
+````
+- 3- Inicia el servidor de desarrollo:
+````
+npm run dev
+````
+💻 Tecnologías usadas
+- 
+- React 18
+- Vite 4
+- CSS moderno (background-size: cover)
+- Props de React
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👨‍💻 Autor
+- 
+- Lucas Figueroa
