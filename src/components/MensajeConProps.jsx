@@ -1,7 +1,7 @@
-const MensajeConProps = (mensajeConProps) => {
+const MensajeConProps = ({mensajeConProps}) => {
   return (
     <div>
-      <h2>¡¡Hello {props.mensajeConProps}!!</h2>
+      <h2>¡¡Hello {mensajeConProps}!!</h2>
     </div> 
   );
     

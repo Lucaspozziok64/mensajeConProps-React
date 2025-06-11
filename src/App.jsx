@@ -1,11 +1,14 @@
 import './App.css'
+import MensajeConProps from './components/MensajeConProps'
 
 function App() {
 
+  const Mensaje = 'My Friend';
+
   return (
-    <>
-      <h1>Hello World</h1>
-    </>
+    <main>
+      <MensajeConProps mensajeConProps={Mensaje} />
+    </main>
   )
 }
 
